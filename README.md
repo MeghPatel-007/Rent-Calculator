@@ -28,4 +28,4 @@ It splits the total cost of rent, utilities, and extra expenses equally among ho
 ## 💻 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MeghPatel-007/rent-calculator.git
+   git clone https://github.com/MeghPatel-007/Rent-Calculator.git
